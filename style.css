@@ -1,0 +1,58 @@
+#himq {
+    background-color: rgb(74, 2, 116);
+    height: 425px;
+    width: 250px;
+    border-radius: 10px;
+}
+#text {
+    color: white;
+    text-align: center;
+}
+#blok1 {
+    display: flex;
+    justify-content: center;
+}
+#bloks1 {
+    background-color: white;
+    height: 70px;
+    width: 220px;
+    border-radius: 15px;
+}
+#num {
+    text-align: end;
+}
+.blok {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 60px;
+}
+#bloks2 {
+    background-color: red;
+    height: 50px;
+    width: 50px;
+    border-radius: 10px;
+}
+.guyn {
+    background-color: white;
+    height: 50px;
+    width: 50px;
+    border-radius: 10px;
+}
+#bloks4 {
+    background-color: green;
+    width: 115px;
+}
+#guyn1 {
+    color: white;
+}
+#guyn2 {
+    color: red;
+}
+#guyn3 {
+    color: white;
+}
+.kentron {
+    color: blue;
+    text-align: center;
+}
